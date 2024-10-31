@@ -23,12 +23,16 @@ h1{
     width: 400px;
     height: 30px;
     padding: 5px;
+    border: solid 1px orange;
+    border-radius: 6px;
 }
 .Form-Item-Textarea{
     background-color: rgb(255, 212, 133);
     width: 400px;
     height: 200px;
     padding: 5px;
+    border: solid 1px orange;
+    border-radius: 6px;
 }
 .Form-Item-Label-Required{
     padding: 1px 1px;
