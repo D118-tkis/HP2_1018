@@ -42,6 +42,15 @@ h1{
     border: solid 1px orange;
     border-radius: 6px;
 }
+.Form-btn-Free{
+    font-weight: bold;
+    padding: 1px 1px;
+    margin: 1px 0;
+    color: white;
+    background-color: rgb(175, 175, 175);
+    border: solid 1px rgb(175, 175, 175);
+    border-radius: 6px;
+}
 .Form-Btn{
     font-weight: bold;
     padding: 15px 100px;
