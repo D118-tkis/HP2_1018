@@ -5,7 +5,7 @@ h1{
 .Form{
     width: 720px;
     margin: 0 auto;
-    background-color: aliceblue;
+    text-align: center;
 }
 .Form-Item{
     border-top: solid black 1px;
@@ -54,7 +54,7 @@ h1{
 .Form-Btn{
     font-weight: bold;
     padding: 15px 100px;
-    margin: 0;
+    margin: 0 auto;
     color: white;
     background-color: orange;
     border: solid 1px orange;
