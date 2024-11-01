@@ -3,9 +3,9 @@ h1{
     color: orange;
 }
 .Form{
-    width: 700px;
-    margin: auto;
-    text-align: center;
+    width: 720px;
+    margin: 0 auto;
+    background-color: aliceblue;
 }
 .Form-Item{
     border-top: solid black 1px;
